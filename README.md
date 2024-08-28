@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ima9gh
+- 👀 I’m interested in ... Video games, Fruit Leather, tangerine, thrill lover, spending time with friends and family, movies, series and computer!
+- 🌱 I’m currently learning ... ►HTML ►CSS ►JS ►REACT
+- 💞️ I’m looking to collaborate on ... Companies and group projects.
+- 📫 How to reach me ... zx.eror.xz@gmail.com.
+-🔍 Take a look at my projects on [Frontend Mentor](https://www.frontendmentor.io/profile/ima9gh).
